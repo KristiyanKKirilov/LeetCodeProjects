@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\my projects\First Relative Substring\bin\Debug\net6.0\First Relative Substring.exe
+D:\Visual Studio Projects\my projects\First Relative Substring\bin\Debug\net6.0\First Relative Substring.deps.json
+D:\Visual Studio Projects\my projects\First Relative Substring\bin\Debug\net6.0\First Relative Substring.runtimeconfig.json
+D:\Visual Studio Projects\my projects\First Relative Substring\bin\Debug\net6.0\First Relative Substring.dll
+D:\Visual Studio Projects\my projects\First Relative Substring\bin\Debug\net6.0\First Relative Substring.pdb
+D:\Visual Studio Projects\my projects\First Relative Substring\obj\Debug\net6.0\First Relative Substring.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\my projects\First Relative Substring\obj\Debug\net6.0\First Relative Substring.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\my projects\First Relative Substring\obj\Debug\net6.0\First Relative Substring.AssemblyInfo.cs
+D:\Visual Studio Projects\my projects\First Relative Substring\obj\Debug\net6.0\First Relative Substring.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\my projects\First Relative Substring\obj\Debug\net6.0\First Relative Substring.dll
+D:\Visual Studio Projects\my projects\First Relative Substring\obj\Debug\net6.0\refint\First Relative Substring.dll
+D:\Visual Studio Projects\my projects\First Relative Substring\obj\Debug\net6.0\First Relative Substring.pdb
+D:\Visual Studio Projects\my projects\First Relative Substring\obj\Debug\net6.0\First Relative Substring.genruntimeconfig.cache
+D:\Visual Studio Projects\my projects\First Relative Substring\obj\Debug\net6.0\ref\First Relative Substring.dll
