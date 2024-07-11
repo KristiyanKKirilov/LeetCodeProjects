@@ -1,29 +1,23 @@
 ﻿using System;
 
-namespace PalindromeProblem
+namespace JulyLeetCodeExercises
 {
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            string input = Console.ReadLine();
-
-            char[] charInput = input.ToCharArray();
-
-            Array.Reverse(charInput);
-
-            string reverseInput = new string(charInput);
-
-            //Console.WriteLine(reverseInput);
-            
-            if(input != reverseInput)
-            {
-                Console.WriteLine(false);
-            }
-            else
-            {
+	public class Program
+	{
+		static void Main(string[] args)
+		{
+			int n = int.Parse(Console.ReadLine());
+			string w = n.ToString();
+			string r = new (w.Reverse().ToArray());
+			if(r == w)
+			{
                 Console.WriteLine(true);
             }
+			else
+			{
+				Console.WriteLine(false);
+			}
+
         }
-    }
+	}
 }
